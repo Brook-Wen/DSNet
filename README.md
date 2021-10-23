@@ -2,7 +2,7 @@
 
 ## Dynamic Selective Network for RGB-D Salient Object Detection
 
-This repo is an official implementation of the *DSNet*, which has been accepted in the journal *IEEE Transactions on Image Processing, 2021*.
+This repo is an official implementation of the *DSNet*, which has been accepted by the journal *IEEE Transactions on Image Processing, 2021*.
 
 ![DSNet](Figures/DSNet.bmp)
 
